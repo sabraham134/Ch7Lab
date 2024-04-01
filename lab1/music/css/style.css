@@ -253,9 +253,7 @@ header {
   }
 
 .grid {
-  display: grid;
   grid-template-columns: 4;
-  grid-gap: 40px;
 }
 
 figcaption {
